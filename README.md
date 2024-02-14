@@ -1,5 +1,6 @@
+## Lambda Function Template with Node.js, and PostgreSQL Connection
 
-# HOME
+This template provides a starting point for creating a Lambda function using Node.js connecting to a PostgreSQL database. It follows a structured project organization with a focus on modularity and separation of concerns.
 
 ## Table of contents
 * [Overview](#overview)
